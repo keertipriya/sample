@@ -10,6 +10,6 @@
 <div style="font-family: Comic Sans MS">
 <h1 align=center>Welcome to the 1st deploy from jenkins!!!!</h1>
 </div>
-<img src="/images/1.png">
+<img src="/images/1.png" width= "100" height= "100" >
 </body>
 </html>
