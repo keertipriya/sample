@@ -7,6 +7,8 @@
 <title>Hello World</title>
 </head>
 <body>
+<div style="font-family: Comic Sans MS">
 <h1>Welcome to the 1st deploy from jenkins!!!!</h1>
+</div>
 </body>
 </html>
