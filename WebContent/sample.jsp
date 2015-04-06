@@ -7,6 +7,6 @@
 <title>Hello World</title>
 </head>
 <body>
-Welcome to the 1st deploy from jenkins!!!!
+<h1>Welcome to the 1st deploy from jenkins!!!!</h1>
 </body>
 </html>
