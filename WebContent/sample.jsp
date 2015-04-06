@@ -8,7 +8,7 @@
 </head>
 <body>
 <div style="font-family: Comic Sans MS">
-<h1>Welcome to the 1st deploy from jenkins!!!!</h1>
+<h1 align=center>Welcome to the 1st deploy from jenkins!!!!</h1>
 </div>
 </body>
 </html>
